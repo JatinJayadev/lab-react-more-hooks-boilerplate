@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 } */
+.center-div {
+  text-align: center;
+  margin: 1vh;
+}
+
+.background {
+  background-color: antiquewhite;
+  padding: 1vh;
+  margin: 1vh;
+}
